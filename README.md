@@ -1,3 +1,5 @@
 # Nobel_Prize_Analysis
 A serie of analysis based on the Nobel Prizes : who won ? were ? when ? etc.  
-Done as part of the excellent course "[100 days of code](https://www.udemy.com/course/100-days-of-code/)" (Dr Angela Yu, on Udemy). 
+Done as part of the excellent course "[100 days of code](https://www.udemy.com/course/100-days-of-code/)" (Dr Angela Yu, on Udemy).   
+
+<img src=https://i.imgur.com/cemX4m5.png width=300>
